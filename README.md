@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Khamic672
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning basics
+- 🌱 I’m currently learning machine learning and AI
 - 📫 How to reach me khamic.sk@gmail.com 
 
 
